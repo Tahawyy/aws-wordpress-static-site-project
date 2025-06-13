@@ -25,3 +25,14 @@ This project consists of two tasks demonstrating full-stack AWS infrastructure d
 
 ## 📁 Project Structure
 
+repo/
+├── Task 1/
+│ ├── screenshots/
+│ ├── documentation.pdf
+│ └── cloudformation-template.yaml
+├── Task 2/
+│ ├── scripts/
+│ ├── cloudformation/
+│ ├── website/
+│ └── screenshot.png
+
